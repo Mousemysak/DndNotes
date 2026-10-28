@@ -1,0 +1,1 @@
+The university for magic users in [[Kingdom of Eshen]]

@@ -1,0 +1,1 @@
+The White Razors are a gang operating in the empire, mostly the [[Golden Coast]] and the [[Kingdom of Eshen]]. They specialize in pickpocketing, burglary and smuggling. Their leader is[[Maeral Krissys]]. Maple was raised in the gang and Zayel Calico used to be a smuggler for them before they betrayed him and gave him up to the authorities

@@ -1,0 +1,246 @@
+{
+  "main": {
+    "id": "01ecaaa4ac3955e2",
+    "type": "split",
+    "children": [
+      {
+        "id": "6a81d1a50544cd1f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4d14916785a57c40",
+            "type": "leaf",
+            "state": {
+              "type": "obsidian-leaflet-map-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Leaflet Map"
+            }
+          },
+          {
+            "id": "38e76a4aa44a4017",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Party/Quinn.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Quinn"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "85bcf4473b7c4dc0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "09ae289ed5d5a015",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2cc005763df22c8c",
+    "type": "split",
+    "children": [
+      {
+        "id": "9b74bd5061c6d7a3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b708e3198b5f3690",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "0f228405c67c4058",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "f5a76027301bb0a9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 259.5
+  },
+  "right": {
+    "id": "5a24f1c3efc8d8fa",
+    "type": "split",
+    "children": [
+      {
+        "id": "bac579f1e20a8b33",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "05780312c04ccc08",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "The New World.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for The New World"
+            }
+          },
+          {
+            "id": "cecdadc4b3e2a422",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "The New World.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from The New World"
+            }
+          },
+          {
+            "id": "e8412a8e1a99ae9a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "daa66fea371d90e4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "The New World.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of The New World"
+            }
+          },
+          {
+            "id": "1bb67ca62e19a7fc",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 582.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "command-palette:Open command palette": false,
+      "templates:Insert template": false,
+      "bases:Create new base": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "09ae289ed5d5a015",
+  "lastOpenFiles": [
+    "Characters/Party/Quinn.md",
+    "Characters/Party/The Party.md",
+    "Characters/Party/Freya.md",
+    "Characters/Party/Ersatz.md",
+    "Characters/Party/10.md",
+    "Characters/Granny Yaga.md",
+    "Haka Grinley.md",
+    "Doorguy & Cornerguy.md",
+    "Doorway Cornerstore.md",
+    "Devil's Alehouse.md",
+    "Characters/Party",
+    "Gabbet Brenward.md",
+    "Cynta Woodhall.md",
+    "Lenna Erderil.md",
+    "Untitled.canvas",
+    "2026-10-28.md",
+    "Triglav.md",
+    "The Old Gods.md",
+    "Mokosh.md",
+    "The Nine Curses.md",
+    "Empire Isles.jpg",
+    "Empire Isles.md",
+    "Joe's Adventures.md",
+    "Emperor's Mouths.md",
+    "Cliffmouth.md",
+    "Andron.md",
+    "Zel'ni  Lu.md",
+    "Zayel Calico.md",
+    "Willmot Ironspear.md",
+    "New World.jpg",
+    "Adventures",
+    "map.jpg",
+    "Characters"
+  ]
+}

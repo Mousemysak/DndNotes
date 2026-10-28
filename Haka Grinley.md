@@ -1,0 +1,1 @@
+Went to check the kobolds, went to forbidden cave

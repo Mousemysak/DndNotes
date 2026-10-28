@@ -1,0 +1,232 @@
+{
+  "mapMarkers": [
+    {
+      "id": "Empire_Map",
+      "locked": true,
+      "lastAccessed": 1729114926866,
+      "markers": [
+        {
+          "id": "ID_9848a87b59ba",
+          "type": "default",
+          "loc": [
+            574.5625,
+            683
+          ],
+          "link": "Welcome",
+          "layer": "%5B%5BEmpire%20Isles.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "The capital city of the Iron Empire",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_1b8ac9fa0a1b",
+          "type": "default",
+          "loc": [
+            1123.5705782185119,
+            1123.5926753054239
+          ],
+          "layer": "%5B%5BEmpire%20Isles.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_9bc9fb3b487a",
+          "type": "default",
+          "loc": [
+            341.2232160963334,
+            635.6889962867062
+          ],
+          "link": "Capital",
+          "layer": "%5B%5BEmpire%20Isles.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Capital of the Iron Empire",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Empire Isles.md"
+      ]
+    },
+    {
+      "id": "New_World_Map",
+      "locked": false,
+      "lastAccessed": 1734564009582,
+      "markers": [
+        {
+          "id": "ID_4a19fa2ab9cb",
+          "type": "Cross",
+          "loc": [
+            380,
+            580
+          ],
+          "link": "Cliffmouth",
+          "layer": "%5B%5BNew%20World.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.4272103469668725,
+            -0.4975936608349779
+          ],
+          "description": "The town of cliffmouth",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_3859f8c8eb0b",
+          "type": "Cross",
+          "loc": [
+            236,
+            546
+          ],
+          "link": "Southport",
+          "layer": "%5B%5BNew%20World.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.40216698179984894,
+            -0.30903185251856524
+          ],
+          "description": "The town of Southport",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_e898b95b0b0a",
+          "type": "Cross",
+          "loc": [
+            598,
+            214
+          ],
+          "link": "Northbay",
+          "layer": "%5B%5BNew%20World.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.15762588663950122,
+            -0.7830552873139915
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_6a9b9b78d819",
+          "type": "Cross",
+          "loc": [
+            352,
+            288
+          ],
+          "link": "Rockmere",
+          "layer": "%5B%5BNew%20World.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.21213203435596428,
+            -0.46092886477345324
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_28c91b9ada98",
+          "type": "Cross",
+          "loc": [
+            178,
+            756
+          ],
+          "link": "Lambridge Keep",
+          "layer": "%5B%5BNew%20World.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.5568465901844062,
+            -0.23308334639112124
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "The New World.md"
+      ]
+    }
+  ],
+  "defaultMarker": {
+    "type": "default",
+    "iconName": "map-marker",
+    "color": "#dddddd",
+    "transform": {
+      "size": 6,
+      "x": 0,
+      "y": -2
+    },
+    "isImage": false
+  },
+  "markerIcons": [
+    {
+      "type": "Cross",
+      "iconName": "map-marker",
+      "color": "#dddddd",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": true,
+      "imageUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAuhJREFUSEu1lU9IFHEUx79vZheJDgrhQVzb3+6OddBI29GILl2CwMMuUoJ08Raph6I8BEEJklBYGf6JLnWRJA+ut24Fgh2cNYMu5e7OLK55SdqbpDPzcnZdXNddVzTn9GPm9/t+3vu+93tDOOaHjlkf/x0Q8KkDNqNRN7SwE/wegF+oj8C4vmG5W1OpL+sHzTAYDLr//OYOkPSKCONxXXtYFCCEekUCPhDjnUXmE8NYTB8E4hfqCwBdIEwkdK03d6aoRQGhTjLQDlBfwpgfLgfwCTVCQAjAvMUcSiajq/sCnI9+r7oEgmIDYcPQZopBFEWpsK2qITB6AKwSuDtuRCP5e0sWWYgmIUH+BJCQgHCsAHLGc77WdLsfOOIEWgHs3kLxojXYod+QfV59kAh9TnQScDsHCYhgmEEDABoccZusTl1fmC2WZdk2zflLwIwFs4tIOiex/J7BtQDNusyNzp+pbyul6lQW4BwMCDXCThGJx4ilkCNOQEQ2N3v3Ey9j0U5MXm+wxkU0noFkL0/EZO7O75YjZeCva1Uh22MAWgCsg+l+Ijn/GoBdroXLWuQUFJBGMp4TRrdbctFtWW0/lr/+OhJgu1ucyGsccUlO3zPNqmsSEAEjlkhq9YcGCKGGMkIAGJjJDS+P59KJCnmznwl3AOg2zIv7jZOiFvm8ag8RRjLREUbzZ4vzSoimKhmuaQYuAzxhw7pbCrIHsG3LWwAVzBiQ3emhWCz2t9CKzE2W3R9BOCsR34zp0amyF63+dIvfkngSQCMRnudGbimfA54LCrukOQDVZNr18dRCrHDvrgwCQp1mcBNAwwlDe1mugFm7suPdWdtAh2Fon4sOu8xIYDTY5LpqGHXLwJR1EEDmpmczWdpaP04YWv8uQOZPtEZPtwbaLbLQGl/Wvh9UOH+f39vSDuJBMu22fKtIUZqr2ZTfgDAX17VnhxF3zjiBrq1ZJwu7yamBpCjNpyorpXQ0Gt08LKDUuX9xmCYo/M0QXgAAAABJRU5ErkJggg==",
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    }
+  ],
+  "color": "#dddddd",
+  "lat": 39.983334,
+  "long": -82.98333,
+  "notePreview": false,
+  "layerMarkers": true,
+  "previousVersion": "6.0.5",
+  "version": {
+    "major": 6,
+    "minor": 0,
+    "patch": 5
+  },
+  "warnedAboutMapMarker": false,
+  "copyOnClick": false,
+  "displayMarkerTooltips": "hover",
+  "displayOverlayTooltips": true,
+  "configDirectory": null,
+  "mapViewEnabled": true,
+  "mapViewParameters": {},
+  "enableDraw": true,
+  "defaultUnitType": "metric",
+  "defaultTile": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
+  "defaultTileDark": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
+  "defaultAttribution": "&copy; <a href=\"https://www.openstreetmap.org/copyright\">OpenStreetMap</a> contributors &copy; <a href=\"https://carto.com/attributions\">CARTO</a>",
+  "defaultTileSubdomains": "a,b,c,d"
+}

@@ -1,0 +1,37 @@
+
+Curses that were the result of the ritual which granted the old gods power
+- The Bloodhunger
+	- Bloodlust that gets worse after every kill
+	- Born from the wrath of Hokra
+	- It fell upon the Yuan-ti
+- Dreadful Dreams
+	- Dreams that show past and future, although not always correctly
+	- Born from Hytr's thirst for knowledge
+	- It fell upon the Tieflings
+- The Wrath of The Forest
+	- The Leshi, a protector of the forest and  an enemy to those who would disturb it
+	- Born from Lech's love for nature
+- Curse Of The Full Moon
+	- Lycanthropy
+	- born from Zorya's need for change
+	- It fell upon the elves
+- The Restless Dead
+	- The Undead are being awakened in the new world
+	- born from Veles's greed
+	- It fell upon the land
+- Hateful Sun
+	- Sensitivity to the sun's light
+	- Born from Svarog's ambition
+	- It fell upon the drow
+- Haunting Souls
+	- The souls of people you killed, haunt your every step
+	- Born from Mokosh's rage at the wasting of her gift
+	- It fell upon the humans
+- Fetid Decay
+	- Your body starts to wilt and decay looking more like a corpse each day
+	- Born from Setesh's rot
+	- It fell upon the Dwarves
+- The Heavy Crown
+	- Your power and courage is tied to your hair, if you lose it, you lose your power
+	- It is a reminder of Perun's crown as the leader of the Nine
+	- It fell upon the Leonin

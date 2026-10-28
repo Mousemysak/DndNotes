@@ -1,0 +1,2 @@
+Live in the Dole mountains, made a pact with the dwarves, helping them mine iron and other ore in exchange for technology and peace, however that balance has been shaky lately as dwarves are starting to go missing and are blaming the kobolds
+Every 9 years they hold a contest for the most knowledgeable kobold, who then becomes a leader and assembles the kobold council which overlooks day to day running of kobold society
